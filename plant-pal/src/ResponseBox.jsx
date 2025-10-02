@@ -1,5 +1,9 @@
 function ResponseBox() {
-    return <div></div>;
+    return (
+    <div>
+        <p>Response Box</p>
+    </div>
+    );
 }
 
 export default ResponseBox;

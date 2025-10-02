@@ -1,5 +1,9 @@
 function Talkbox() {
-    return <div></div>;
+    return (
+    <div>
+        <p>Talk Box</p>
+    </div>
+    );
 }
 
 export default Talkbox;
